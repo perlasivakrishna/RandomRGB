@@ -1,0 +1,2 @@
+# RandomRGB
+Genearets Random color 
