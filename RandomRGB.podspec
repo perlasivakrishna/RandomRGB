@@ -16,8 +16,8 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "RandomRGB"
-  s.version      = "1.0.0"
-  s.summary      = "It gives you random color every time."
+  s.version      = "1.0.1"
+  s.summary      = "It gives you random color every time, It's onlt for learinig purpose. "
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -25,10 +25,10 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
-                      It gives you random color every time when u call it
+                      It gives you random color every time when u call it. Only for learinig
                    DESC
 
-  s.homepage     = "http://raywenderlich.com"
+  s.homepage     = "https://www.blogger.com/blogger.g?blogID=1335616946259392179#allposts"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
